@@ -2,6 +2,10 @@
 
 An MCP server that uses Replicate to generate images and allows users to save them.
 
+<a href="https://glama.ai/mcp/servers/ih7lecow52">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/ih7lecow52/badge" alt="Image Generator Server MCP server" />
+</a>
+
 ## Components
 
 ### Resources
